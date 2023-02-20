@@ -1,0 +1,41 @@
+/*CSS for Resume*/
+
+h2, h3, h1 {
+	font-family: 'Lora', sans-serif;
+	color: #795644;
+	margin-left: 5px;
+}
+p, ul, footer {
+	font-family: 'Lora', sans-serif;
+	font-size: 15px;
+	color: #555753;
+	margin-left: 5px;
+}
+body {
+	left: 0;
+	background-color: floralwhite;
+}
+header {
+	
+}
+#header {
+	display: block;
+    width: 1000px;
+    margin: 0 auto;
+}
+.headshot {
+  float: left;
+  height: 320px;
+  width: auto;
+  margin: 5px;
+}
+.container{
+  display: block;
+  justify-content: right;
+}
+a {
+	color: #6ca16d;
+}
+ul {
+	list-style-type: square;
+}
