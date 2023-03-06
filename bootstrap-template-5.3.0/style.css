@@ -1,0 +1,32 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body {
+	background-color: floralwhite;
+	font-family: Raleway, sans-serif;
+	background-image: url(images/logo.png);
+	background-repeat: no-repeat;
+	background-size: 80px;
+	background-position: right;
+	background-position-y: 0;
+}
+h1 {
+	font-size: 80px;
+	text-align: center;
+	color: #573a26;
+}
+#headshot {
+	width: 450px;
+	height: auto;
+	align-content: center;
+}
+#intro {
+	text-align: center;
+	padding-top: 80px;
+}
+#education {
+	background-color: #e8decf;
+}
+#logo {
+	width: 80px;
+	height: auto;
+	align-content: center;
+}
